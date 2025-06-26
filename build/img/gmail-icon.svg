@@ -1,0 +1,6 @@
+<!-- build/img/gmail-icon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <path fill="#f44336" d="M42 6H6C4.89 6 4 6.89 4 8v32c0 1.11.89 2 2 2h36c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2z"></path>
+  <path fill="#fff" d="M24 26L6 12h36z"></path>
+  <path fill="#d32f2f" d="M6 36l18-14 18 14z"></path>
+</svg>
